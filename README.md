@@ -1,7 +1,5 @@
 <h1 align="center">🐍 Fallout-rtg / Python Developer </h1>
 
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="100" alt="python logo"  />
   <img width="20" />
@@ -16,25 +14,17 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="100" alt="vscode logo"  />
 </div>
 
-###
-
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Fallout-rtg&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
-
-###
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fallout-rtg&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
-###
-
 <p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=Fallout-rtg&theme=radical&no-frame=true&no-bg=true&margin-w=4">
 </p>
-
-###
 
 <p align="center">
   <picture>
