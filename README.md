@@ -5,15 +5,15 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height=80" alt="python logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="100" alt="supabase logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="80" alt="supabase logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="80" alt="vercel logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="80" alt="git logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="80" alt="pycharm logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="80" alt="vscode logo"  />
 </div>
 
 ###
