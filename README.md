@@ -19,10 +19,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fallout-rtg&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=Fallout-rtg&theme=radical&no-frame=true&no-bg=true&margin-w=4">
 </p>
 
