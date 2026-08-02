@@ -1,4 +1,22 @@
-<h1 align="center">🐍 Fallout-rtg / Python Developer </h1>
+<p align="center">
+  <picture>
+    <!-- Для тёмной темы (белый текст) -->
+    <source
+      srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1000&pause=10000&color=E6EDF3&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%F0%9F%90%8D%20Fallout-rtg%20%2F%20Python%20Developer"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Для светлой темы (чёрный текст) -->
+    <source
+      srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1000&pause=10000&color=000000&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%F0%9F%90%8D%20Fallout-rtg%20%2F%20Python%20Developer"
+      media="(prefers-color-scheme: light)"
+    />
+    <!-- Запасной вариант -->
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1000&pause=10000&color=000000&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%F0%9F%90%8D%20Fallout-rtg%20%2F%20Python%20Developer"
+      alt="Fallout-rtg / Python Developer"
+    />
+  </picture>
+</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="100" alt="python logo"  />
@@ -48,6 +66,10 @@
       alt="Самые используемые языки"
     />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
 <p align="center">
