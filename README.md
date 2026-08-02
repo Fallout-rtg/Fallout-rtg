@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/snake.png" height="40" alt="snake" style="vertical-align: middle; margin-right: 10px; margin-top: -10000px;" />
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.icons8.com/color/48/000000/snake.png" height="40" alt="snake" />
   <picture>
     <source
       srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1000&pause=10000&color=E6EDF3&center=true&vCenter=true&repeat=true&width=500&height=60&lines=Fallout-rtg%20%2F%20Python%20Developer"
@@ -15,6 +15,7 @@
     />
   </picture>
 </p>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="100" alt="python logo"  />
   <img width="20" />
